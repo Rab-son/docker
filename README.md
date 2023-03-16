@@ -29,6 +29,7 @@
 > Uses client-server architecture 
 1. Client --REST API--> Server (Docker Engine)
 > A kernel manages applications and hardware resources.
-
-### 4. Installing Docker
-### 5. Development Workflow
+### 4. Development Workflow
+### Some Docker Commands
+1. docker version (checking docker version)
+2.
