@@ -13,6 +13,10 @@
 > ###### 1. Virtual Box
 > ###### 2. VMware
 > ###### 3. Hyper-v (Windows Only)
+##### Problems of VM
+> ###### 1. Each VM needs a full-blown OS
+> ###### 2. Slow to start
+> ###### 3. Resource intensive
 ### 3. Architecture of Docker
 ### 4. Installing Docker
 ### 5. Development Workflow
