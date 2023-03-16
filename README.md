@@ -8,6 +8,11 @@
 > An Issolated environment for running application.
 #### Virtual Machine
 > An abstraction of a machine (physical hardware)
+##### Hypervisor
+> ###### A software that we use to create and manage a virtual machine. Examples include:
+> ###### 1. Virtual Box
+> ###### 2. VMware
+> ###### 3. Hyper-v (Windows Only)
 ### 3. Architecture of Docker
 ### 4. Installing Docker
 ### 5. Development Workflow
