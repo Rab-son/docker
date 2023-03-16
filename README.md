@@ -6,9 +6,9 @@
 ### 2. Virtual Machine VS Containers
 #### Container
 > An Issolated environment for running application.
-> Allow running multiple apps in isolation.
-> Are lightweight
-> Use OS of the host
+1. Allow running multiple apps in isolation.
+2. Are lightweight
+3. Use OS of the host
 #### Virtual Machine
 > An abstraction of a machine (physical hardware)
 ##### Hypervisor
