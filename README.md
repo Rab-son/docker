@@ -30,6 +30,8 @@
 1. Client --REST API--> Server (Docker Engine)
 > A kernel manages applications and hardware resources.
 ### 4. Development Workflow
+1. Dockerlize (using dockerfile)
+> Dockerfile is a plain text file that includes instructions that docker uses to package its application into an image
 ### Some Docker Commands
 1. docker version (checking docker version)
 2.
