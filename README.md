@@ -29,9 +29,20 @@
 > Uses client-server architecture 
 1. Client --REST API--> Server (Docker Engine)
 > A kernel manages applications and hardware resources.
+
 ### 4. Development Workflow
 1. Dockerlize (using dockerfile)
-> Dockerfile is a plain text file that includes instructions that docker uses to package its application into an image
+> Dockerfile is a plain text file that includes instructions that docker uses to package of its application into an image. An image contains the following:
+- A cut-down OS
+- A runtime environment (e.g Node)
+- Application files
+- Third-party libraries
+-  Environment variables
+
+2. Container
+
+
+
 ### Some Docker Commands
 1. docker version (checking docker version)
 2.
