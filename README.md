@@ -79,6 +79,15 @@
     - cd /user (absolute path-starts from the root directory) 
     - cd ~ (root directory)
  
+### Manipulating Files and Directories
+1. mkdir (making a directory)
+2. mv [filename] [newfilename] (renaming)
+3. rm [filename] (to remove files)
+4. rm -r [directory name] (to remove directory)
+5. touch [filename] (to create a file)
+
+### Editing and Viewing Files
+
 
 ### Some Linux Commands
 1. apt list (see packages in the apt database)
