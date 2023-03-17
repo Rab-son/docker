@@ -73,6 +73,12 @@
  2. ls > listing item
     - ls -1 (listing one item per row)
     - ls -l (long listing)
+    - ls [path where you want to see the contents]
+ 3. cd > change directory
+    - cd boot (relative path)
+    - cd /user (absolute path-starts from the root directory) 
+    - cd ~ (root directory)
+ 
 
 ### Some Linux Commands
 1. apt list (see packages in the apt database)
