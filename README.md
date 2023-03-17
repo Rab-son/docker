@@ -41,8 +41,19 @@
 
 2. Container
 
+### Linux Distributions
+### Distros (Some)
+1. Ubuntu
+2. Debian
+3. Alpine
+4. Fedora
+5. CentOS
+
+### Running Linux
+1. docker run ubuntu (if not available it will be pulled).
+
 
 
 ### Some Docker Commands
 1. docker version (checking docker version)
-2.
+2. docker images or docker image ls (listing docker images)
