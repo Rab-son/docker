@@ -87,6 +87,8 @@
 5. touch [filename] (to create a file)
 
 ### Editing and Viewing Files
+1. nano [filename]
+2. cat [filename] 
 
 
 ### Some Linux Commands
