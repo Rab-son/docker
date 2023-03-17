@@ -89,6 +89,13 @@
 ### Editing and Viewing Files
 1. nano [filename]
 2. cat [filename] 
+3. more [filename]
+4. less [filename]
+5. head [filename]
+6. tail [filename]
+
+### Redirection
+1. >
 
 
 ### Some Linux Commands
@@ -96,8 +103,6 @@
 2. apt update 
 3. apt install [package name]
 4. apt remove [package name]
-
-
 
 ### Some Docker Commands
 1. docker version (checking docker version)
