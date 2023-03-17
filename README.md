@@ -52,8 +52,27 @@
 ### Running Linux
 1. docker run ubuntu (if not available it will be pulled).
 
+### Package managers
+1. apt - advanced package tool
+2. apt-get
+
+### Some Linux Commands
+1. apt list (see packages in the apt database)
+2. apt update 
+3. apt install [package name]
+4. apt remove [package name]
+
 
 
 ### Some Docker Commands
 1. docker version (checking docker version)
+
 2. docker images or docker image ls (listing docker images)
+
+3. docker ps (listing running containers), docker ps -a (listing all containers including the stopped ones)
+
+4. docker run -it [container name] (starting a container and interacting with it)
+
+
+
+
