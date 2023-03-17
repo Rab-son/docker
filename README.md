@@ -56,6 +56,24 @@
 1. apt - advanced package tool
 2. apt-get
 
+### Linux File System
+/ 
+ - bin (binary) > programs
+ - boot > all files related to booting
+ - dev (devices) > the files that need to access devices. In linux, Everything is a file.
+ - etc (editable text configuration) > where we have configuration files
+ - home > home directory for users are stored.
+ - root > home directory for root users.
+ - lib > used for keeping library files like software library files
+ - var (variable) > files whch are updated frequently like lock files
+ - proc > includes running processes.
+
+ ### Navigating File System
+ 1. pwd > print working directory
+ 2. ls > listing item
+    - ls -1 (listing one item per row)
+    - ls -l (long listing)
+
 ### Some Linux Commands
 1. apt list (see packages in the apt database)
 2. apt update 
