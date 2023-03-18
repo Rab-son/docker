@@ -114,6 +114,7 @@ grep (global regular expression print)
 2. printenv PATH
 3. echo $PATH
 4. />> (appending something to a file instead of overwriting)
+5. source [filename/filepath] (to reload a file)
 
 ### Some Linux Commands
 1. apt list (see packages in the apt database)
