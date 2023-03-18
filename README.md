@@ -167,6 +167,10 @@ grep (global regular expression print)
 9. CMD
 10. ENTRYPOINT
 
+### Removing Images
+1. docker image prune (removing dangling images)
+2. docker container prune (removing dangling container)
+3. docker image rm [name]or[imageid]
 -----------------------------
 ### Some Docker Commands
 1. docker version (checking docker version)
