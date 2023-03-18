@@ -3,3 +3,4 @@ WORKDIR /app
 COPY . .
 RUN npm install
 ENV API_URL=http://rabson.com
+EXPOSE 3000
