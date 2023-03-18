@@ -127,7 +127,14 @@ grep (global regular expression print)
 3. userdel (deleting a user)
 4. adduser (more interactive)
 
-### Some Linux Commands
+### Managing groups
+1. grouadd [devops]
+2. groups [username] (viewing user groups)
+
+### File Permissions
+1. 
+
+### Packages
 1. apt list (see packages in the apt database)
 2. apt update 
 3. apt install [package name]
