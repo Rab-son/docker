@@ -1,5 +1,6 @@
 # SECTION ONE
-## OUTLINE
+## INTRODUCTION TO DOCKER
+### OUTLINE AND CONTENT
 ### 1. What Is Docker
 > A platform for building, running and shipping applications.
 
@@ -41,6 +42,10 @@
 
 2. Container
 
+-----------------------------
+# SECTION TWO
+## LINUX
+### OUTLINE AND CONTENT
 ### Linux Distributions
 ### Distros (Some)
 1. Ubuntu
@@ -140,7 +145,17 @@ grep (global regular expression print)
 2. apt update 
 3. apt install [package name]
 4. apt remove [package name]
-
+-----------------------------
+# SECTION THREE
+## BUILDING IMAGES
+### OUTLINE AND CONTENT
+1. Creating Docker files
+2. Versioning images
+3. Sharing images
+4. Saving and loading images
+5. Reducing the image size
+6. Speeding up builds
+-----------------------------
 ### Some Docker Commands
 1. docker version (checking docker version)
 
