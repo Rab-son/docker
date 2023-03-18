@@ -155,6 +155,17 @@ grep (global regular expression print)
 4. Saving and loading images
 5. Reducing the image size
 6. Speeding up builds
+### Dockerfile Instructions
+1. FROM
+2. WORKDIR
+3. COPY
+4. ADD
+5. RUN
+6. ENV
+7. EXPOSE
+8. USER
+9. CMD
+10. ENTRYPOINT
 
 -----------------------------
 ### Some Docker Commands
