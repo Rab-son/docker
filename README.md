@@ -95,8 +95,15 @@
 6. tail [filename]
 
 ### Redirection
-1. >
+1. \>
 
+### Searching for Text
+grep (global regular expression print)
+1. grep [rab] [filename] - case sensitive
+2. grep -i [rab] [filename] - case insensitive
+
+### Chaining Commands
+1. mkdir rab; cd rab; echo done;
 
 ### Some Linux Commands
 1. apt list (see packages in the apt database)
