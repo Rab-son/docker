@@ -103,7 +103,12 @@ grep (global regular expression print)
 2. grep -i [rab] [filename] - case insensitive
 
 ### Chaining Commands
-1. mkdir rab; cd rab; echo done;
+1. mkdir rab; cd rab; echo done; (if one command fails, the other commands will not executed)
+
+2. mkdir rab && cd rab && echo done; (if the first command fails, the other commands will not get executed)
+
+3. mkdir rab || echo "directory exists" (one will execute if the one true)
+
 
 ### Some Linux Commands
 1. apt list (see packages in the apt database)
