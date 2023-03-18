@@ -109,6 +109,11 @@ grep (global regular expression print)
 
 3. mkdir rab || echo "directory exists" (one will execute if the one true)
 
+### Environment Variables
+1. printenv
+2. printenv PATH
+3. echo $PATH
+4. />> (appending something to a file instead of overwriting)
 
 ### Some Linux Commands
 1. apt list (see packages in the apt database)
@@ -125,6 +130,7 @@ grep (global regular expression print)
 
 4. docker run -it [container name] (starting a container and interacting with it)
 
+5. docker start -i [processid]
 
 
 
