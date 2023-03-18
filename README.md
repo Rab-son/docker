@@ -117,8 +117,15 @@ grep (global regular expression print)
 5. source [filename/filepath] (to reload a file)
 
 ### Managing Processes
+> Process - an instance of a running program.
 1. ps (listing processes)
 2. kill [process id]
+
+### Managing Users
+1. useradd (adding a user) e.g user add -m rabson
+2. usermod (modifying a user)
+3. userdel (deleting a user)
+4. adduser (more interactive)
 
 ### Some Linux Commands
 1. apt list (see packages in the apt database)
