@@ -116,6 +116,10 @@ grep (global regular expression print)
 4. />> (appending something to a file instead of overwriting)
 5. source [filename/filepath] (to reload a file)
 
+### Managing Processes
+1. ps (listing processes)
+2. kill [process id]
+
 ### Some Linux Commands
 1. apt list (see packages in the apt database)
 2. apt update 
