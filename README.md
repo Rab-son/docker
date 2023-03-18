@@ -132,7 +132,8 @@ grep (global regular expression print)
 2. groups [username] (viewing user groups)
 
 ### File Permissions
-1. 
+1. ls -l (to check permissions)
+2. chmod u+x (execute permission for user)
 
 ### Packages
 1. apt list (see packages in the apt database)
