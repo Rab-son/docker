@@ -155,6 +155,7 @@ grep (global regular expression print)
 4. Saving and loading images
 5. Reducing the image size
 6. Speeding up builds
+
 -----------------------------
 ### Some Docker Commands
 1. docker version (checking docker version)
