@@ -199,6 +199,8 @@ grep (global regular expression print)
 1. docker exec [c1] [ls]
 2. docker exec [it] [c1] [sh]
 
+### starting and stopping containers
+
 -----------------------------
 ### Some Docker Commands
 1. docker version (checking docker version)
