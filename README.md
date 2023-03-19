@@ -249,6 +249,9 @@ grep (global regular expression print)
 1. docker-compose build 
 2. docker-compose build --no-cache
 
+### Starting and Stopping the application
+1. docker-compose up
+2. docker-compose down
 
 
 ---------------------------------
