@@ -200,6 +200,11 @@ grep (global regular expression print)
 2. docker exec [it] [c1] [sh]
 
 ### starting and stopping containers
+1. docker start [c1]
+2. docker stop [c1]
+
+>NOTE: docker run is used to start a new container, while start is used to power up a container which was initially stopped.
+
 
 -----------------------------
 ### Some Docker Commands
