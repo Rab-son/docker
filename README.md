@@ -210,5 +210,5 @@ grep (global regular expression print)
 6. docker run -d [container name]
 (running the container in the background i.e. detach mode)
 
-
+7. docker [command] --help
 
