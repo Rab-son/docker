@@ -195,6 +195,8 @@ grep (global regular expression print)
 ### publishing ports
 1. docker run -d -p 80:30000 --name react-app 
 
+### executing commands in running containers
+
 -----------------------------
 ### Some Docker Commands
 1. docker version (checking docker version)
