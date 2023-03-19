@@ -208,6 +208,10 @@ grep (global regular expression print)
 ### Removing containers
 1. docker container rm c1 or docker rm c1
 2. docker rm -f c1 
+3. docker ps -a | grep c1
+4. docker container prune
+
+
 
 -----------------------------
 ### Some Docker Commands
