@@ -250,9 +250,15 @@ grep (global regular expression print)
 2. docker-compose build --no-cache
 
 ### Starting and Stopping the application
-1. docker-compose up
+1. docker-compose up [-d]
 2. docker-compose down
 
+### Docker networking
+1. docker network ls
+
+### Viewing logs
+1. docker-compose logs
+2. 
 
 ---------------------------------
 ### Some Docker Commands
