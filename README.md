@@ -203,13 +203,20 @@ grep (global regular expression print)
 1. docker start [c1]
 2. docker stop [c1]
 
->NOTE: docker run is used to start a new container, while start is used to power up a container which was initially stopped.
+> NOTE: docker run is used to start a new container, while start is used to power up a container which was initially stopped.
 
 ### Removing containers
 1. docker container rm c1 or docker rm c1
 2. docker rm -f c1 
 3. docker ps -a | grep c1
 4. docker container prune
+
+### Persisting data using volumes
+> Volume - storage outside containers
+
+1. docker volume [create] [app-data]
+2. docker volume inspect app-data
+3. docker run -d -p 4000:300 -v app-data:/app/data react-app
 
 
 
