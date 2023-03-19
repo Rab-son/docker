@@ -189,12 +189,11 @@ grep (global regular expression print)
 6. Persisting data using volumes
 7. Sharing source code
 
+### Viewing logs
+1. docker logs [container id]
 
 
-
-
-
-
+ 
 
 -----------------------------
 ### Some Docker Commands
