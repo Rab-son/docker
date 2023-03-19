@@ -171,6 +171,26 @@ grep (global regular expression print)
 1. docker image prune (removing dangling images)
 2. docker container prune (removing dangling container)
 3. docker image rm [name]or[imageid]
+
+### Tagging Images
+1. docker build -t react-app:1 .
+2. docker image remove react-app: 1 .
+3. docker image tag react-app:latest react-app: 1 
+4. docker image tag [imageid] react-app:latest
+-----------------------------
+# SECTION FOUR
+## CONTAINERS
+### OUTLINE AND CONTENT
+1. Starting & stopping containers
+2. Publishing ports
+3. Viewing logs
+4. Executing commands in containers
+5. Removing containers
+6. Persisting data using volumes
+7. Sharing source code
+
+
+
 -----------------------------
 ### Some Docker Commands
 1. docker version (checking docker version)
