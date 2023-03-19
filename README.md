@@ -196,6 +196,8 @@ grep (global regular expression print)
 1. docker run -d -p 80:30000 --name react-app 
 
 ### executing commands in running containers
+1. docker exec [c1] [ls]
+2. docker exec [it] [c1] [sh]
 
 -----------------------------
 ### Some Docker Commands
