@@ -191,6 +191,11 @@ grep (global regular expression print)
 
 
 
+
+
+
+
+
 -----------------------------
 ### Some Docker Commands
 1. docker version (checking docker version)
@@ -202,6 +207,9 @@ grep (global regular expression print)
 4. docker run -it [container name] (starting a container and interacting with it)
 
 5. docker start -i [processid]
+
+6. docker run -d [container name]
+(running the container in the background i.e. detach mode)
 
 
 
