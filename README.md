@@ -233,6 +233,11 @@ grep (global regular expression print)
 1. Depends on the machine
 2. docker-compose --version
 
+### Cleaning Up Our Workspace
+1. docker image ls -q (listing image ids)
+2. docker container rm -f $(docker container ls -q)
+3. docker image rm -f $(docker image ls -q)
+
 ---------------------------------
 ### Some Docker Commands
 1. docker version (checking docker version)
