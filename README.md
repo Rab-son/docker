@@ -238,6 +238,8 @@ grep (global regular expression print)
 2. docker container rm -f $(docker container ls -q)
 3. docker image rm -f $(docker image ls -q)
 
+
+
 ---------------------------------
 ### Some Docker Commands
 1. docker version (checking docker version)
