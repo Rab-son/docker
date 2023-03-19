@@ -230,6 +230,8 @@ grep (global regular expression print)
 4. Running Automated Tests
 
 ### Installing Docker Compose
+1. Depends on the machine
+2. docker-compose --version
 
 ---------------------------------
 ### Some Docker Commands
