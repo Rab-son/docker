@@ -245,7 +245,9 @@ grep (global regular expression print)
 1. JSON - data transfer
 2. YAML - configuration files
 
-### Creating a Composer File
+### Creating Images
+1. docker compose build 
+
 
 
 ---------------------------------
