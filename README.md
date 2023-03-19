@@ -238,6 +238,12 @@ grep (global regular expression print)
 2. docker container rm -f $(docker container ls -q)
 3. docker image rm -f $(docker image ls -q)
 
+### Multi Container apps
+1. docker-compose up
+
+### JSON and YAML Formats
+1. JSON - data transfer
+2. YAML - configuration files
 
 
 ---------------------------------
