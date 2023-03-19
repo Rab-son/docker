@@ -221,8 +221,17 @@ grep (global regular expression print)
 ### Copying files between the host and a container
 1. docker cp [source] [destination]
 
+# SECTION Five
+## RUNNING MULTI-CONTAINER APPS
+### OUTLINE AND CONTENT
+1. Docker Compose 
+2. Docker Networking
+3. Database Migration
+4. Running Automated Tests
 
------------------------------
+### Installing Docker Compose
+
+---------------------------------
 ### Some Docker Commands
 1. docker version (checking docker version)
 
