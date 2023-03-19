@@ -218,6 +218,8 @@ grep (global regular expression print)
 2. docker volume inspect app-data
 3. docker run -d -p 4000:300 -v app-data:/app/data react-app
 
+### Copying files between the host and a container
+1. docker cp [source] [destination]
 
 
 -----------------------------
