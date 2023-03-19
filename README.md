@@ -246,7 +246,8 @@ grep (global regular expression print)
 2. YAML - configuration files
 
 ### Creating Images
-1. docker compose build 
+1. docker-compose build 
+2. docker-compose build --no-cache
 
 
 
