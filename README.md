@@ -205,6 +205,9 @@ grep (global regular expression print)
 
 >NOTE: docker run is used to start a new container, while start is used to power up a container which was initially stopped.
 
+### Removing containers
+1. docker container rm c1 or docker rm c1
+2. 
 
 -----------------------------
 ### Some Docker Commands
