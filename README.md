@@ -192,7 +192,7 @@ grep (global regular expression print)
 ### Viewing logs
 1. docker logs [container id]
 
-
+### publishing ports
  
 
 -----------------------------
