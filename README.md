@@ -207,7 +207,7 @@ grep (global regular expression print)
 
 ### Removing containers
 1. docker container rm c1 or docker rm c1
-2. 
+2. docker rm -f c1 
 
 -----------------------------
 ### Some Docker Commands
