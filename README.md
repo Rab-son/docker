@@ -258,7 +258,10 @@ grep (global regular expression print)
 
 ### Viewing logs
 1. docker-compose logs
-2. 
+
+### Pushing changes
+1. 
+
 
 ---------------------------------
 ### Some Docker Commands
